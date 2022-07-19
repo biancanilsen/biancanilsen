@@ -1,7 +1,17 @@
-### Hi there 👋
+###Olá , eu sou Bianca Nilsen
 
 <!--
-**biancanilsen/biancanilsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sou estagiária de desenvolvimento Front-end de Blumenau, Brasil.
+
+Sobre mim:
+
+💻 Fiz parte do  Entra21 emm 2021, cursando C#,
+
+💬 Eu amo tecnologia,
+
+ 🚀 Se eu não sei, vou aprender,
+ 
+ 
 
 Here are some ideas to get you started:
 
@@ -12,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .
 -->
