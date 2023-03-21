@@ -22,5 +22,3 @@ Sou estagiária de desenvolvimento full stack na Envolti Sistemas#
 * 📫 entre em contato comigo: biancanilsen.entra21@hotmail.com	
 
 <a href="https://www.linkedin.com/in/bianca-nilsen-b1607a200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=biancanilsen" />![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@biancanilsen)
