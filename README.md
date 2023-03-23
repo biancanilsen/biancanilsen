@@ -9,11 +9,12 @@ Sou estagiária de desenvolvimento full stack na Envolti Sistemas#
 
 *  💻  Fiz parte do Entra21 em 2021, cursando C# 💙
 
+*  💻  Graduando análise e desenvolvimento de sistemas - IFSC
+
 *  💬  Eu amo Tecnologia!
 
 *  🚀  Se eu não sei, vou aprender
 
-* 🚀 Análise e desenvolvimento de sistemas - IFSC
 
 <div align="center">
   <a href="https://github.com/biancanilsen">
