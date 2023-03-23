@@ -15,6 +15,9 @@ Sou estagiária de desenvolvimento full stack na Envolti Sistemas#
 
 *  🚀  Se eu não sei, vou aprender
 
+## **Linguagens e Ferramentas:**  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,cs,dart,eclipse,git,java,mysql,nestjs,nodejs,postgres,react,ts,visualstudio,vscode)](https://skillicons.dev)
+
 
 <div align="center">
   <a href="https://github.com/biancanilsen">
