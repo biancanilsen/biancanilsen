@@ -2,7 +2,7 @@
 
 # Olá, eu sou Bianca Nilsen
 
-Sou estagiária de desenvolvimento full stack na Envolti Sistemas#
+Sou estagiária de desenvolvimento full stack na Envolti Sistemas
 
 #  💻  Sobre mim!
 
