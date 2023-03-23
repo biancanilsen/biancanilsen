@@ -22,6 +22,5 @@ Sou estagiária de desenvolvimento full stack na Envolti Sistemas#
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancanilsen&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
-* 📫 entre em contato comigo: nilsenn.bianca@gmail.com	
 <a href = "mailto:nilsenn.bianca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bianca-nilsen-b1607a200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
