@@ -4,12 +4,12 @@
 
 Sou estagiária de desenvolvimento full stack na Envolti Sistemas
 
-#  💻  Sobre mim!
+#  📌  Sobre mim!
 
 
-*  💻  Fiz parte do Entra21 em 2021, cursando C# 💙
+*  💻  Fiz parte do Entra21 em 2021, cursando C#
 
-*  💻  Graduando análise e desenvolvimento de sistemas - IFSC
+*  💚  Graduando análise e desenvolvimento de sistemas - IFSC
 
 *  💬  Eu amo Tecnologia!
 
