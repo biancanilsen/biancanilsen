@@ -1,8 +1,8 @@
 
 
-# Olá, eu sou Bianca Nilsen
+# Hello, I'm Bianca Nilsen
 
-Sou estagiária de desenvolvimento full stack na Envolti Sistemas
+I am a Frontend developer at Envolti Sistemas
 
 #  📌  Sobre mim!
 
