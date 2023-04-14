@@ -4,7 +4,7 @@
 
 I am a Frontend developer at Envolti Sistemas
 
-#  📌  Sobre mim!
+#  📌  About Me!
 
 
 *  💻  I was part of Entra21 in 2021, taking C#
