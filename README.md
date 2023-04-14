@@ -7,15 +7,15 @@ Sou estagiária de desenvolvimento full stack na Envolti Sistemas
 #  📌  Sobre mim!
 
 
-*  💻  Fiz parte do Entra21 em 2021, cursando C#
+*  💻  I was part of Entra21 in 2021, taking C#
 
-*  💚  Graduando análise e desenvolvimento de sistemas - IFSC
+*  💚  Undergraduate student of systems analysis and development - IFSC
 
-*  💬  Eu amo Tecnologia!
+*  💬  I love Technology!
 
-*  🚀  Se eu não sei, vou aprender
+*  🚀  If I don't know, I will learn
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,angular,html,css,bootstrap,cs,dotnet,docker,nodejs,js,jest,express,nestjs,ts,azure,git,github,heroku,vercel,mysql,postgres,postman,sequelize,visualstudio,vscode,figma&perline=18)](https://skillicons.dev)
 
 
