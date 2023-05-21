@@ -9,7 +9,7 @@ I am a Frontend developer at Envolti Sistemas
 
 *  💻  I was part of Entra21 in 2021, taking C#
 
-*  💚  Undergraduate student of systems analysis and development - IFSC
+*  💚  Undergraduate student of systems analysis and development - Instituto Federal de Santa Catarina - IFSC
 
 *  💬  I love Technology!
 
