@@ -16,7 +16,7 @@ I am a Frontend developer at Envolti Sistemas
 *  🚀  If I don't know, I will learn
 
 ## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,angular,html,css,bootstrap,cs,dotnet,docker,nodejs,js,jest,express,nestjs,ts,azure,git,github,heroku,vercel,mysql,postgres,postman,sequelize,visualstudio,vscode,figma&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,angular,html,css,bootstrap,cs,dotnet,nodejs,js,jest,express,nestjs,ts,azure,git,github,heroku,vercel,mysql,postgres,postman,sequelize,visualstudio,vscode,figma&perline=18)](https://skillicons.dev)
 
 
 <div align="center">
