@@ -25,13 +25,13 @@ I am a Full Stack developer at [Paytrack](https://paytrack.com.br/)
 #### 📱 Mobile & Desktop
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron)](https://skillicons.dev)
 
-#### 🛢️ Bancos de Dados
+#### 🛢️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sequelize)](https://skillicons.dev)
 
-#### ☁️ DevOps, Cloud & Infra
+#### ☁️ DevOps, Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,jenkins,grafana,azure,heroku,vercel,git,github,bitbucket)](https://skillicons.dev)
 
-#### 🛠️ Ferramentas & IDEs
+#### 🛠️ DevOps, Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,postman,figma)](https://skillicons.dev)
 
 <div align="center">
