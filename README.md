@@ -16,8 +16,23 @@ I am a Full Stack developer at [Paytrack](https://paytrack.com.br/)
 *  🚀  If I don't know, I will learn
 
 ## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,angular,html,css,bootstrap,cs,dotnet,nodejs,js,jest,express,nestjs,ts,azure,git,github,heroku,vercel,mysql,postgres,postman,sequelize,visualstudio,vscode,figma&perline=18)](https://skillicons.dev)
+#### 🖥️ Front-End
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap)](https://skillicons.dev)
 
+#### ⚙️ Back-End
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,hibernate,nodejs,nestjs,express,jest,kafka)](https://skillicons.dev)
+
+#### 📱 Mobile & Desktop
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron)](https://skillicons.dev)
+
+#### 🛢️ Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sequelize)](https://skillicons.dev)
+
+#### ☁️ DevOps, Cloud & Infra
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,jenkins,grafana,azure,heroku,vercel,git,github,bitbucket)](https://skillicons.dev)
+
+#### 🛠️ Ferramentas & IDEs
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,postman,figma)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://https://github.com/biancanilsen">
