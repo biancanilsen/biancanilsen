@@ -34,16 +34,6 @@ I am a Full Stack developer at [Paytrack](https://paytrack.com.br/)
 #### 🛠️ Ferramentas & IDEs
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,postman,figma)](https://skillicons.dev)
 
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Front-End** | [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap&theme=light)](https://skillicons.dev) |
-| **Back-End** | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,hibernate,nodejs,nestjs,express,jest,kafka&theme=light)](https://skillicons.dev) |
-| **Mobile & Desktop** | [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron&theme=light)](https://skillicons.dev) |
-| **Bancos de Dados** | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev) |
-| **DevOps & Cloud** | [![My Skills](https://skillicons.dev/icons?i=docker,linux,jenkins,grafana,azure,heroku,vercel,git,github,bitbucket&theme=light)](https://skillicons.dev) |
-| **Ferramentas & IDEs**| [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,postman,figma&theme=light)](https://skillicons.dev) |
-
 <div align="center">
   <a href="https://https://github.com/biancanilsen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancanilsen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
