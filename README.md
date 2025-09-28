@@ -2,7 +2,7 @@
 
 # Hello, I'm Bianca Nilsen
 
-I am a Frontend developer at Envolti Sistemas
+I am a Full Stack developer at [Paytrack](https://paytrack.com.br/)
 
 #  📌  About Me!
 
